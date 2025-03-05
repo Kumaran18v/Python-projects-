@@ -19,7 +19,7 @@ installation
 
 2. clone this repository:
 
-git clone https://github.com/kumaran18v/usernamegenerator.git
+git clone https://github.com/kumaran18v/Usernamegenerator.git
 
 
 3. navigate to the project folder:
