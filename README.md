@@ -19,7 +19,7 @@ installation
 
 2. clone this repository:
 
-git clone https://github.com/kumaran18v/random-username-generator.git
+git clone https://github.com/kumaran18v/usernamegenerator.git
 
 
 3. navigate to the project folder:
