@@ -19,7 +19,7 @@ installation
 
 2. clone this repository:
 
-git clone https://github.com/kumaran18v/Python-projects-/Usernamegenerator.py
+git clone https://github.com/Kumaran18v/Python-projects-/Usernamegenerator.py
 
 
 3. navigate to the project folder:
